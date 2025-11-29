@@ -41,7 +41,7 @@ fi
 
 # Download the dashboard script
 echo -e "${BLUE}[2/5]${NC} Downloading honeypot dashboard..."
-SCRIPT_URL="https://raw.githubusercontent.com/YOUR_USERNAME/sshesame-dashboard/main/honeypot-dashboard.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/mikegilkim/sshesame-dashboard/main/honeypot-dashboard.sh"
 
 # For testing, use the embedded script
 cat > /usr/local/bin/honeypot-dashboard << 'DASHBOARD_SCRIPT'
