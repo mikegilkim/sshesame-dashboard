@@ -2,7 +2,7 @@
 
 # SSH Honeypot Dashboard One-line Installer SSHESAME
 # https://github.com/mikegilkim/sshesame-dashboard
-#sshesame
+
 
 set -e
 
