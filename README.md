@@ -2,6 +2,8 @@
 
 A beautiful, colorful terminal dashboard to monitor your [sshesame](https://github.com/jaksi/sshesame) SSH honeypot attacks in real-time.
 
+<img width="733" height="537" alt="image" src="https://github.com/user-attachments/assets/31b4855b-279b-49f6-8925-2ddb64d737ae" />
+
 ## ✨ Features
 
 - 📊 **Beautiful Dashboard** - Color-coded statistics with elegant box design
