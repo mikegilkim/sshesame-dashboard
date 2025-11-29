@@ -158,7 +158,7 @@ sudo systemctl start sshesame
 
 ## 🛡️ Security Recommendations
 
-- **Move your real SSH to a different port** (e.g., 2024, 2222)
+- **Move your real SSH to a different port**
 - **Configure fail2ban** to protect your real SSH port
 - **Use strong authentication** on your real SSH (keys, not passwords)
 - **Monitor the honeypot regularly** to see attack patterns
@@ -218,11 +218,5 @@ If you find this useful, please star the repository!
 - Built for [sshesame](https://github.com/jaksi/sshesame) by jaksi
 - Dashboard created with ❤️ for the security community
 
-## 📞 Support
-
-- Open an issue on GitHub
-- Check existing issues for solutions
-
----
 
 **Happy honeypot monitoring!** 🍯✨
